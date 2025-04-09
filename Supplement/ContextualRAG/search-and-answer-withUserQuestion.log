@@ -1,0 +1,470 @@
+(advrag) grizzlymacbookpro@Aekanuns-MacBook-Pro AuthenticRAG-Qwen2.5API-eCustom % python onlysearchAuthenticRAG.py
+
+
+===== คำถามที่ 1/9 =====
+คำถาม: เครื่องจักรสำหรับการผลิตเวเฟอร์กึ่งตัวนำที่ใช้โฟตอนบีมในการผลิต อยู่ในประเภทย่อยใด และมีอัตราอากรเท่าไหร่?
+
+Sparse search found 0 results
+Dense search found 10 results
+RRF fusion returned 10 results
+
+Found 5 relevant documents for question: 'เครื่องจักรสำหรับการผลิตเวเฟอร์กึ่งตัวนำที่ใช้โฟตอนบีมในการผลิต อยู่ในประเภทย่อยใด และมีอัตราอากรเท่าไหร่?'
+
+DOCUMENT 1/5
+Score: 0.016666666666666666
+Doc ID: doc_114
+
+Content:
+| อัตราอากร\<br/>ตามราคาร้อยละ\<br/> | อัตราอากร\<br/>ตามสภาพ\<br/>หน่วย | อัตราอากร\<br/>ตามสภาพ\<br/>หน่วยละบาท |
+| - | - | - | - | - | - |
+| | 7419.80 | - อื่น ๆ | | | |
+| | 7419.80.10 | - - โซ่และส่วนประกอบของโซ่ | 35 | - | - |
+| | | - - ของที่มีลักษณะแบบผ้า (รวมถึงแถบที่เป็นวง) ตะแกรง และตาข่ายทำด้วยลวดทองแดง รวมทั้งเอกซ์แพนเด็ด เมทัลทำด้วยทองแดง | | | |
+| | 7419.80.21 | - - - สายพานเป็นวงสำหรับเครื่องจักร | 35 | - | - |
+| | 7419.80.29 | - - - อื่น ๆ | 35 | - | - |
+| | 7419.80.30 | - - สปริ...(truncated)
+
+DOCUMENT 2/5
+Score: 0.01639344262295082
+Doc ID: doc_135
+
+DOCUMENT 3/5
+Score: 0.016129032258064516
+Doc ID: doc_69
+
+DOCUMENT 4/5
+Score: 0.015873015873015872
+Doc ID: doc_136
+
+DOCUMENT 5/5
+Score: 0.015625
+Doc ID: doc_17
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+
+คำตอบ: จากข้อมูลที่ให้มา ไม่มีรายละเอียดเฉพาะเกี่ยวกับเครื่องจักรสำหรับการผลิตเวเฟอร์กึ่งตัวนำที่ใช้โฟตอนบีมในการผลิต อย่างไรก็ตาม ตามโครงสร้างข้อมูลที่ให้มา เครื่องจักรดังกล่าวอาจจะอยู่ในประเภท 84 ซึ่งครอบคลุมเครื่องจักรและเครื่องใช้กลต่างๆ แต่ไม่มีรายละเอียดที่ระบุย่อยลงถึงการใช้โฟตอนบีมหรือการผลิตเวเฟอร์กึ่งตัวนำ
+
+หากต้องการทราบข้อมูลที่แน่นอนเกี่ยวกับอัตราอากรและประเภทย่อยที่เหมาะสม ควรตรวจสอบกับเจ้าหน้าที่ศุลกากรหรือขอคำปรึกษาจากผู้เชี่ยวชาญด้านศุลกากรเพื่อความถูกต้อง
+
+หากต้องการประมาณการ อาจพิจารณาจากอัตราอากรที่ใกล้เคียง เช่น อัตรา 30% ซึ่งเป็นอัตราที่พบบ่อยในหมวดนี้ แต่นี่เป็นเพียงการคาดคะเนเท่านั้น
+
+
+===== คำถามที่ 2/9 =====
+คำถาม: เครื่องเคลือบทางกายภาพบนเวเฟอร์กึ่งตัวนำโดยวิธีการสปัตเตอร์ มีประเภทย่อยใด และใช้งานในกระบวนการผลิตอะไร?
+
+Sparse search found 0 results
+Dense search found 10 results
+RRF fusion returned 10 results
+
+Found 5 relevant documents for question: 'เครื่องเคลือบทางกายภาพบนเวเฟอร์กึ่งตัวนำโดยวิธีการสปัตเตอร์ มีประเภทย่อยใด และใช้งานในกระบวนการผลิตอะไร?'
+
+DOCUMENT 1/5
+Score: 0.016666666666666666
+Doc ID: doc_136
+
+Content:
+ๆ | 30 | - | - |
+| | 8481.10.91 | - - - ทำด้วยพลาสติก ที่มีเส้นผ่านศูนย์กลางภายในไม่น้อยกว่า 1 เซนติเมตร แต่ไม่เกิน 2.5 เซนติเมตร | 30 | - | - |
+| | 8481.10.99 | - - - อื่น ๆ | 30 | - | - |
+
+
+หมวด 16 ตอนที่ 84 เครื่องปฏิกรณ์นิวเคลียร์ บอยเลอร์ เครื่องจักร เครื่องใช้กลฯ
+---
+หมวด 16 ตอนที่ 84 เครื่องปฏิกรณ์นิวเคลียร์ บอยเลอร์ เครื่องจักร เครื่องใช้กลฯ
+
+| ประเภท\<br/> | ประเภทย่อย\<br/> | รายการ\<br/> | อัตราอากร\<br/>ตามราคาร้อยละ | อัตราอากร\<br/>ตามสภาพหน่วย | อัตราอากร\<br/>หน่วยละบาท |
+| - | -...(truncated)
+
+DOCUMENT 2/5
+Score: 0.01639344262295082
+Doc ID: doc_134
+
+DOCUMENT 3/5
+Score: 0.016129032258064516
+Doc ID: doc_152
+
+DOCUMENT 4/5
+Score: 0.015873015873015872
+Doc ID: doc_135
+
+DOCUMENT 5/5
+Score: 0.015625
+Doc ID: doc_55
+
+คำตอบ: จากข้อมูลที่ให้มา เครื่องเคลือบทางกายภาพบนเวเฟอร์กึ่งตัวนำโดยวิธีการสปัตเตอร์ มีประเภทย่อยคือ 8486.20.13
+
+เครื่องนี้ใช้งานในกระบวนการผลิตสารกึ่งตัวนำ โดยเฉพาะอย่างยิ่งสำหรับการเคลือบฟิล์มบนเวเฟอร์กึ่งตัวนำ ซึ่งเป็นกระบวนการสำคัญในการผลิตวงจรรวมอิเล็กทรอนิกส์และอุปกรณ์กึ่งตัวนำอื่นๆ
+
+กระบวนการสปัตเตอร์เป็นวิธีการเคลือบฟิล์มที่ใช้ในอุตสาหกรรมเทคโนโลยีกึ่งตัวนำ เพื่อสร้างฟิล์มโลหะบางๆ หรือฟิล์มอื่นๆ บนพื้นผิวของเวเฟอร์กึ่งตัวนำ ซึ่งมีความสำคัญในการผลิตชิปคอมพิวเตอร์และอุปกรณ์อิเล็กทรอนิกส์อื่นๆ
+
+
+===== คำถามที่ 3/9 =====
+คำถาม: ระบบส่งกำลังที่ประกอบด้วยเพลาข้อเหวี่ยงสำหรับยานบกที่มีความจุของกระบอกสูบเกิน 3,000 ลูกบาศก์เซนติเมตร มีประเภทย่อยใดและอัตราอากรเท่าไหร่?
+
+Sparse search found 7 results
+Dense search found 10 results
+RRF fusion returned 13 results
+
+Found 5 relevant documents for question: 'ระบบส่งกำลังที่ประกอบด้วยเพลาข้อเหวี่ยงสำหรับยานบกที่มีความจุของกระบอกสูบเกิน 3,000 ลูกบาศก์เซนติเมตร มีประเภทย่อยใดและอัตราอากรเท่าไหร่?'
+
+DOCUMENT 1/5
+Score: 0.03306010928961749
+Doc ID: doc_145
+Context: The chunk is part of a larger table detailing tariff rates for various types of motor vehicles and their components under Category 17, Chapter 87, which covers land vehicles other than railway or tramway vehicles. Specifically, it lists tariff codes and corresponding tax rates for different vehicle types based on engine displacement and usage.
+
+Content:
+- |
+| | 8703.50.26 | ---- ความจุของกระบอกสูบเกิน 2,000 ลูกบาศก์เซนติเมตร | 200 | - | - |
+
+---
+| ประเภท\<br/> | ประเภทย่อย\<br/> | รายการ\<br/> | อัตราอากร\<br/>ตามราคาร้อยละ | อัตราอากร\<br/>ตามสภาพหน่วย | อัตราอากร\<br/>หน่วยละบาท |
+| - | - | - | - | - | - |
+| | | - - - อื่น ๆ | | | |
+| | 8703.50.27 | - - - - ความจุของกระบอกสูบไม่เกิน 2,000 ลูกบาศก์เซนติเมตร | 200 | - | - |
+| | 8703.50.28 | - - - - ความจุของกระบอกสูบเกิน 2,000 ลูกบาศก์เซนติเมตร | 200 | - | - |
+| | | - - อื่น ๆ | | | |
+| | 8703....(truncated)
+
+DOCUMENT 2/5
+Score: 0.032539682539682535
+Doc ID: doc_144
+Context: The chunk provides details on types of traffic signals and safety/control equipment for railways, tramways, roads, waterways, parking areas, ports, and airports, along with tariff rates for various categories of vehicles and their components not designed specifically for rail or tramway use.
+
+DOCUMENT 3/5
+Score: 0.03225806451612903
+Doc ID: doc_135
+Context: Qwen API error after 5 attempts: Error code: 400 - {'error': {'code': 'invalid_parameter_error', 'param': None, 'message': '<400> InternalError.Algo.InvalidParameter: Range of input length should be [1, 129024]', 'type': 'invalid_request_error'}, 'id': 'chatcmpl-c3380114-d578-9e58-a9d0-7809460117d7', 'request_id': 'c3380114-d578-9e58-a9d0-7809460117d7'}
+
+DOCUMENT 4/5
+Score: 0.031009615384615385
+Doc ID: doc_136
+Context: Qwen API error after 5 attempts: Error code: 400 - {'error': {'code': 'invalid_parameter_error', 'param': None, 'message': '<400> InternalError.Algo.InvalidParameter: Range of input length should be [1, 129024]', 'type': 'invalid_request_error'}, 'id': 'chatcmpl-74a6525e-a622-955a-bd38-05932be2d7c8', 'request_id': '74a6525e-a622-955a-bd38-05932be2d7c8'}
+
+DOCUMENT 5/5
+Score: 0.01639344262295082
+Doc ID: doc_149
+
+คำตอบ: จากข้อมูลที่ให้มา ไม่มีรายละเอียดเฉพาะเจาะจงเกี่ยวกับ "ระบบส่งกำลังที่ประกอบด้วยเพลาข้อเหวี่ยง" สำหรับยานพาหนะที่มีความจุกระบอกสูบเกิน 3,000 ลูกบาศก์เซนติเมตร อย่างไรก็ตาม มีข้อมูลเกี่ยวกับยานพาหนะที่มีความจุกระบอกสูบเกิน 3,000 ลูกบาศก์เซนติเมตร ดังนี้:
+
+- ประเภทย่อย: 8703.60.67, 8703.60.68, 8703.60.77, 8703.60.87, 8703.60.97, 8703.60.98
+- อัตราอากร: 200%
+
+โปรดทราบว่าข้อมูลนี้อาจไม่ตรงกับคำถามที่ถามเกี่ยวกับระบบส่งกำลังเฉพาะ แต่เป็นข้อมูลที่ใกล้เคียงที่สุดจากข้อมูลที่ให้มา. หากต้องการข้อมูลที่แม่นยำเกี่ยวกับระบบส่งกำลังเฉพาะ ควรตรวจสอบในหมวดหมู่ย่อยที่เกี่ยวข้องกับส่วนประกอบของยานพาหนะ.
+
+
+===== คำถามที่ 4/9 =====
+คำถาม: วาล์วสำหรับขวดของเหลวอัดลมหรือคาร์บอเนต รวมทั้งวาล์วสำหรับหน่วยจ่ายเบียร์ที่ใช้ก๊าซ มีประเภทย่อยใดที่ทำด้วยพลาสติก?
+
+Sparse search found 1 results
+Dense search found 10 results
+RRF fusion returned 10 results
+
+Found 5 relevant documents for question: 'วาล์วสำหรับขวดของเหลวอัดลมหรือคาร์บอเนต รวมทั้งวาล์วสำหรับหน่วยจ่ายเบียร์ที่ใช้ก๊าซ มีประเภทย่อยใดที่ทำด้วยพลาสติก?'
+
+DOCUMENT 1/5
+Score: 0.03229166666666666
+Doc ID: doc_136
+Context: Qwen API error after 5 attempts: Error code: 400 - {'error': {'code': 'invalid_parameter_error', 'param': None, 'message': '<400> InternalError.Algo.InvalidParameter: Range of input length should be [1, 129024]', 'type': 'invalid_request_error'}, 'id': 'chatcmpl-74a6525e-a622-955a-bd38-05932be2d7c8', 'request_id': '74a6525e-a622-955a-bd38-05932be2d7c8'}
+
+Content:
+ๆ | 30 | - | - |
+| | 8481.10.91 | - - - ทำด้วยพลาสติก ที่มีเส้นผ่านศูนย์กลางภายในไม่น้อยกว่า 1 เซนติเมตร แต่ไม่เกิน 2.5 เซนติเมตร | 30 | - | - |
+| | 8481.10.99 | - - - อื่น ๆ | 30 | - | - |
+
+
+หมวด 16 ตอนที่ 84 เครื่องปฏิกรณ์นิวเคลียร์ บอยเลอร์ เครื่องจักร เครื่องใช้กลฯ
+---
+หมวด 16 ตอนที่ 84 เครื่องปฏิกรณ์นิวเคลียร์ บอยเลอร์ เครื่องจักร เครื่องใช้กลฯ
+
+| ประเภท\<br/> | ประเภทย่อย\<br/> | รายการ\<br/> | อัตราอากร\<br/>ตามราคาร้อยละ | อัตราอากร\<br/>ตามสภาพหน่วย | อัตราอากร\<br/>หน่วยละบาท |
+| - | -...(truncated)
+
+DOCUMENT 2/5
+Score: 0.016666666666666666
+Doc ID: doc_41
+
+DOCUMENT 3/5
+Score: 0.01639344262295082
+Doc ID: doc_132
+
+DOCUMENT 4/5
+Score: 0.016129032258064516
+Doc ID: doc_135
+
+DOCUMENT 5/5
+Score: 0.015873015873015872
+Doc ID: doc_46
+
+คำตอบ: จากข้อมูลที่ให้มา วาล์วสำหรับขวดของเหลวอัดลมหรือคาร์บอเนต รวมทั้งวาล์วสำหรับหน่วยจ่ายเบียร์ที่ใช้ก๊าซ ที่ทำด้วยพลาสติก มีประเภทย่อยคือ:
+
+8481.80.41 - ทำด้วยพลาสติก ที่มีเส้นผ่านศูนย์กลางภายในไม่น้อยกว่า 1 เซนติเมตร แต่ไม่เกิน 2.5 เซนติเมตร
+
+อัตราอากรตามราคาร้อยละคือ 30% สำหรับประเภทดังกล่าว.
+
+
+===== คำถามที่ 5/9 =====
+คำถาม: อุปกรณ์สำหรับการผลิตเวเฟอร์กึ่งตัวนำ เช่น เครื่องเจียระไนหรือเครื่องขัดเรียบ อยู่ในประเภทย่อยใด?
+
+Sparse search found 10 results
+Dense search found 10 results
+RRF fusion returned 18 results
+
+Found 5 relevant documents for question: 'อุปกรณ์สำหรับการผลิตเวเฟอร์กึ่งตัวนำ เช่น เครื่องเจียระไนหรือเครื่องขัดเรียบ อยู่ในประเภทย่อยใด?'
+
+DOCUMENT 1/5
+Score: 0.031099324975891997
+Doc ID: doc_132
+Context: The chunk provides notes and guidelines for categorizing machinery and mechanical appliances, nuclear reactors, boilers, parts thereof, and related items under Category 16, Chapter 84 of a tariff or classification system, detailing exclusions and specific classification rules.
+
+Content:
+### หมายเหตุ
+
+1. หมวดนี้ไม่คลุมถึง
+   (ก) สายพานส่งกำลังหรือสายพานลำเลียงหรือของที่ใช้เป็นสายพาน ทำด้วยพลาสติกในตอนที่ 39 หรือทำด้วยยางวัลแคไนซ์ (ประเภท 40.10) หรือของอื่น ๆ ชนิดที่ใช้กับเครื่องจักร เครื่องใช้กล เครื่องใช้ไฟฟ้าหรือใช้ประโยชน์ทางเทคนิคอื่น ๆ ทำด้วยยางวัลแคไนซ์นอกจากยางแข็ง (ประเภท 40.16)
+   (ข) ของทำด้วยหนังฟอกหรือหนังอัด (ประเภท 42.05) หรือทำด้วยหนังเฟอร์ (ประเภท 43.03) ชนิดที่ใช้กับเครื่องจักร เครื่องใช้กล หรือใช้ประโยชน์ทางเทคนิคอื่น ๆ
+   (ค) กระสวย กรวย แกน หลอดหรือสิ่งรองรับ...(truncated)
+
+DOCUMENT 2/5
+Score: 0.031054405392392875
+Doc ID: doc_134
+Context: The chunk provides detailed notes and classifications for machinery and mechanical appliances under Category 16, Chapter 84, including exclusions, specific machine types, and criteria for classification based on their primary purpose or function.
+
+DOCUMENT 3/5
+Score: 0.016666666666666666
+Doc ID: doc_133
+Context: ตอนที่ 84 กล่าวถึงประเภทของเครื่องจักรและอุปกรณ์ทางกล เช่น เครื่องปฏิกรณ์นิวเคลียร์ บอยเลอร์ และส่วนประกอบของเครื่องจักรเหล่านี้
+
+DOCUMENT 4/5
+Score: 0.016666666666666666
+Doc ID: doc_136
+
+DOCUMENT 5/5
+Score: 0.01639344262295082
+Doc ID: doc_76
+Context: ตอนที่ 49 กล่าวถึงประเภทของผลิตภัณฑ์ในอุตสาหกรรมการพิมพ์ เช่น หนังสือ หนังสือพิมพ์ รูปภาพ และต้นฉบับที่ใช้ในการพิมพ์
+
+คำตอบ: จากข้อมูลที่ให้มา, อุปกรณ์สำหรับการผลิตเวเฟอร์กึ่งตัวนำ เช่น เครื่องเจียระไนหรือเครื่องขัดเรียบ ไม่ได้ระบุอยู่ในประเภทย่อยเฉพาะในข้อความที่ให้มา แต่ในหมายเหตุ 11 ของตอนที่ 84 มีการกล่าวถึงประเภท 84.86 ซึ่งครอบคลุมเครื่องจักรและเครื่องอุปกรณ์ที่ใช้สำหรับ:
+
+(1) การผลิตหรือซ่อมมาสก์และเรติเคิล  
+(2) การประกอบอุปกรณ์กึ่งตัวนำหรือวงจรรวมอิเล็กทรอนิกส์  
+(3) การยก การขนย้าย การบรรทุก หรือการขนถ่าย แท่งบูลส์ เวเฟอร์ อุปกรณ์กึ่งตัวนำ วงจรรวมอิเล็กทรอนิกส์ และจอแสดงผลแบบแบน
+
+ดังนั้น, อุปกรณ์สำหรับการผลิตเวเฟอร์กึ่งตัวนำ เช่น เครื่องเจียระไนหรือเครื่องขัดเรียบ น่าจะอยู่ในประเภท 84.86 ตามข้อกำหนดที่ระบุไว้ในข้อความ.
+
+
+===== คำถามที่ 6/9 =====
+คำถาม: วาล์วตัดเชื้อเพลิงที่ทำด้วยพลาสติกสำหรับยานบกตามประเภท 87.02, 87.03 หรือ 87.04 ที่มีเส้นผ่านศูนย์กลางของทางเข้าน้อยกว่า 1 เซนติเมตร มีอัตราอากรเท่าไหร่?
+
+Sparse search found 10 results
+Dense search found 10 results
+RRF fusion returned 16 results
+
+Found 5 relevant documents for question: 'วาล์วตัดเชื้อเพลิงที่ทำด้วยพลาสติกสำหรับยานบกตามประเภท 87.02, 87.03 หรือ 87.04 ที่มีเส้นผ่านศูนย์กลางของทางเข้าน้อยกว่า 1 เซนติเมตร มีอัตราอากรเท่าไหร่?'
+
+DOCUMENT 1/5
+Score: 0.03279569892473118
+Doc ID: doc_145
+Context: The chunk is part of a larger table detailing tariff rates for various types of motor vehicles and their components under Category 17, Chapter 87, which covers land vehicles other than railway or tramway vehicles. Specifically, it lists tariff codes and corresponding tax rates for different vehicle types based on engine displacement and usage.
+
+Content:
+- |
+| | 8703.50.26 | ---- ความจุของกระบอกสูบเกิน 2,000 ลูกบาศก์เซนติเมตร | 200 | - | - |
+
+---
+| ประเภท\<br/> | ประเภทย่อย\<br/> | รายการ\<br/> | อัตราอากร\<br/>ตามราคาร้อยละ | อัตราอากร\<br/>ตามสภาพหน่วย | อัตราอากร\<br/>หน่วยละบาท |
+| - | - | - | - | - | - |
+| | | - - - อื่น ๆ | | | |
+| | 8703.50.27 | - - - - ความจุของกระบอกสูบไม่เกิน 2,000 ลูกบาศก์เซนติเมตร | 200 | - | - |
+| | 8703.50.28 | - - - - ความจุของกระบอกสูบเกิน 2,000 ลูกบาศก์เซนติเมตร | 200 | - | - |
+| | | - - อื่น ๆ | | | |
+| | 8703....(truncated)
+
+DOCUMENT 2/5
+Score: 0.032018442622950824
+Doc ID: doc_136
+Context: Qwen API error after 5 attempts: Error code: 400 - {'error': {'code': 'invalid_parameter_error', 'param': None, 'message': '<400> InternalError.Algo.InvalidParameter: Range of input length should be [1, 129024]', 'type': 'invalid_request_error'}, 'id': 'chatcmpl-74a6525e-a622-955a-bd38-05932be2d7c8', 'request_id': '74a6525e-a622-955a-bd38-05932be2d7c8'}
+
+DOCUMENT 3/5
+Score: 0.031009615384615385
+Doc ID: doc_144
+Context: The chunk provides details on types of traffic signals and safety/control equipment for railways, tramways, roads, waterways, parking areas, ports, and airports, along with tariff rates for various categories of vehicles and their components not designed specifically for rail or tramway use.
+
+DOCUMENT 4/5
+Score: 0.030798389007344232
+Doc ID: doc_135
+Context: Qwen API error after 5 attempts: Error code: 400 - {'error': {'code': 'invalid_parameter_error', 'param': None, 'message': '<400> InternalError.Algo.InvalidParameter: Range of input length should be [1, 129024]', 'type': 'invalid_request_error'}, 'id': 'chatcmpl-c3380114-d578-9e58-a9d0-7809460117d7', 'request_id': 'c3380114-d578-9e58-a9d0-7809460117d7'}
+
+DOCUMENT 5/5
+Score: 0.016666666666666666
+Doc ID: doc_85
+Context: The chunk provides detailed notes and tariff classifications for various textile products including wadding, felt, non-woven fabrics, yarns, carpets, specialized woven fabrics, and industrial textiles. It specifies exclusions, definitions, and tax rates for these items under different categories and subcategories within a larger document that appears to be a comprehensive tariff guide or customs classification manual.
+
+คำตอบ: จากข้อมูลที่ให้มาในบริบท, ไม่มีรายละเอียดเฉพาะเกี่ยวกับอัตราอากรสำหรับ "วาล์วตัดเชื้อเพลิงที่ทำด้วยพลาสติกสำหรับยานบก" ตามประเภท 87.02, 87.03 หรือ 87.04 โดยเฉพาะอย่างยิ่งที่มีเส้นผ่านศูนย์กลางของทางเข้าน้อยกว่า 1 เซนติเมตร. 
+
+ข้อมูลที่ให้มามุ่งเน้นไปที่อัตราอากรสำหรับยานพาหนะต่างๆ ตามความจุของกระบอกสูบ แต่ไม่ได้ระบุถึงอัตราอากรสำหรับชิ้นส่วนยานพาหนะอย่างวาล์วตัดเชื้อเพลิง.
+
+เพื่อทราบอัตราอากรที่แน่นอนสำหรับวาล์วตัดเชื้อเพลิงดังกล่าว, ควรตรวจสอบกับกรมศุลกากรหรือแหล่งข้อมูลทางศุลกากรที่เกี่ยวข้องที่มีรายละเอียดมากขึ้นเกี่ยวกับอัตราอากรสำหรับชิ้นส่วนยานพาหนะ.
+
+
+===== คำถามที่ 7/9 =====
+คำถาม: วาล์วที่ทำด้วยพลาสติกและมีเส้นผ่านศูนย์กลางภายในไม่น้อยกว่า 1 เซนติเมตร แต่ไม่เกิน 2.5 เซนติเมตร มีอัตราอากรตามราคาร้อยละเท่าไหร่?
+
+Sparse search found 10 results
+Dense search found 10 results
+RRF fusion returned 20 results
+
+Found 5 relevant documents for question: 'วาล์วที่ทำด้วยพลาสติกและมีเส้นผ่านศูนย์กลางภายในไม่น้อยกว่า 1 เซนติเมตร แต่ไม่เกิน 2.5 เซนติเมตร มีอัตราอากรตามราคาร้อยละเท่าไหร่?'
+
+DOCUMENT 1/5
+Score: 0.016666666666666666
+Doc ID: doc_136
+Context: Qwen API error after 5 attempts: Error code: 400 - {'error': {'code': 'invalid_parameter_error', 'param': None, 'message': '<400> InternalError.Algo.InvalidParameter: Range of input length should be [1, 129024]', 'type': 'invalid_request_error'}, 'id': 'chatcmpl-74a6525e-a622-955a-bd38-05932be2d7c8', 'request_id': '74a6525e-a622-955a-bd38-05932be2d7c8'}
+
+Content:
+ๆ | 30 | - | - |
+| | 8481.10.91 | - - - ทำด้วยพลาสติก ที่มีเส้นผ่านศูนย์กลางภายในไม่น้อยกว่า 1 เซนติเมตร แต่ไม่เกิน 2.5 เซนติเมตร | 30 | - | - |
+| | 8481.10.99 | - - - อื่น ๆ | 30 | - | - |
+
+
+หมวด 16 ตอนที่ 84 เครื่องปฏิกรณ์นิวเคลียร์ บอยเลอร์ เครื่องจักร เครื่องใช้กลฯ
+---
+หมวด 16 ตอนที่ 84 เครื่องปฏิกรณ์นิวเคลียร์ บอยเลอร์ เครื่องจักร เครื่องใช้กลฯ
+
+| ประเภท\<br/> | ประเภทย่อย\<br/> | รายการ\<br/> | อัตราอากร\<br/>ตามราคาร้อยละ | อัตราอากร\<br/>ตามสภาพหน่วย | อัตราอากร\<br/>หน่วยละบาท |
+| - | -...(truncated)
+
+DOCUMENT 2/5
+Score: 0.016666666666666666
+Doc ID: doc_114
+
+DOCUMENT 3/5
+Score: 0.01639344262295082
+Doc ID: doc_75
+Context: The chunk provides detailed specifications and classifications for various types of paper and cardboard products, including their intended uses, manufacturing processes, and physical properties, as part of a larger customs tariff or regulatory document. It covers categories from 48.01 to 48.23, detailing items like printing paper, writing and graphic papers, craft paper, coated papers, and specialized papers used in medical and industrial applications.
+
+DOCUMENT 4/5
+Score: 0.01639344262295082
+Doc ID: doc_117
+
+DOCUMENT 5/5
+Score: 0.016129032258064516
+Doc ID: doc_144
+Context: The chunk provides details on types of traffic signals and safety/control equipment for railways, tramways, roads, waterways, parking areas, ports, and airports, along with tariff rates for various categories of vehicles and their components not designed specifically for rail or tramway use.
+
+คำตอบ: วาล์วที่ทำด้วยพลาสติกและมีเส้นผ่านศูนย์กลางภายในไม่น้อยกว่า 1 เซนติเมตร แต่ไม่เกิน 2.5 เซนติเมตร มีอัตราอากรตามราคาร้อยละ 30 ตามที่ระบุในเอกสารที่ให้มา.
+
+
+===== คำถามที่ 8/9 =====
+คำถาม: วาล์วที่ใช้ในระบบส่งกำลังแบบโอลิโอไฮดรอลิกหรือนิวเมติก มีประเภทย่อยใดบ้าง?
+
+Sparse search found 0 results
+Dense search found 10 results
+RRF fusion returned 10 results
+
+Found 5 relevant documents for question: 'วาล์วที่ใช้ในระบบส่งกำลังแบบโอลิโอไฮดรอลิกหรือนิวเมติก มีประเภทย่อยใดบ้าง?'
+
+DOCUMENT 1/5
+Score: 0.016666666666666666
+Doc ID: doc_135
+
+Content:
+## หมายเหตุประเภทย่อย
+
+1. วัตถุประสงค์ของประเภทย่อย 8465.20 คำว่า "เครื่องจักรแบบศูนย์ร่วม" ให้ใช้เฉพาะกับเครื่องมือกลสำหรับใช้ในงานแปรรูปไม้ ไม้ก๊อก กระดูก ยางแข็ง พลาสติกแข็ง หรือวัตถุแข็งที่คล้ายกัน ซึ่งสามารถทำงานได้หลายอย่างโดยวิธีถอดสับเปลี่ยนเครื่องมือได้โดยอัตโนมัติจากแมกกาซีนหรือของที่คล้ายกันตามโปรแกรมของเครื่อง
+
+2. วัตถุประสงค์ของประเภทย่อย 8471.49 คำว่า "ระบบ" หมายถึง เครื่องประมวลผลข้อมูลอัตโนมัติ ซึ่งหน่วยของเครื่องดังกล่าวเป็นไปตามเงื่อนไขที่กำหนดไว้ในหมายเหตุ 6 ค. ของตอนที่ 84 แล...(truncated)
+
+DOCUMENT 2/5
+Score: 0.01639344262295082
+Doc ID: doc_136
+
+DOCUMENT 3/5
+Score: 0.016129032258064516
+Doc ID: doc_154
+
+DOCUMENT 4/5
+Score: 0.015873015873015872
+Doc ID: doc_145
+
+DOCUMENT 5/5
+Score: 0.015625
+Doc ID: doc_132
+
+คำตอบ: จากข้อมูลที่ให้มา วาล์วที่ใช้ในระบบส่งกำลังแบบโอลิโอไฮดรอลิกหรือนิวเมติก มีประเภทย่อยคือ 8481.20
+
+ข้อมูลเพิ่มเติม:
+- วาล์วเหล่านี้ใช้เฉพาะในระบบส่งกำลังของ "ของไหล" ในระบบไฮดรอลิกหรือนิวเมติก
+- ระบบเหล่านี้มีแหล่งพลังงานในรูปของของไหลภายใต้แรงดัน (ของเหลวหรือก๊าซ)
+- วาล์วสามารถเป็นประเภทต่างๆ เช่น วาล์วลดความดัน, เช็ควาล์ว, เป็นต้น
+- ประเภทย่อย 8481.20 ต้องได้รับการพิจารณาก่อนประเภทย่อยอื่น ๆ ของประเภท 84.81
+
+
+===== คำถามที่ 9/9 =====
+คำถาม: วาล์วเช็ควาล์ว (Non-return valve) ที่ทำด้วยทองแดงเจือและมีเส้นผ่านศูนย์กลางภายใน 2.5 เซนติเมตรหรือน้อยกว่า อยู่ในประเภทย่อยใด?
+
+Sparse search found 10 results
+Dense search found 10 results
+RRF fusion returned 17 results
+
+Found 5 relevant documents for question: 'วาล์วเช็ควาล์ว (Non-return valve) ที่ทำด้วยทองแดงเจือและมีเส้นผ่านศูนย์กลางภายใน 2.5 เซนติเมตรหรือน้อยกว่า อยู่ในประเภทย่อยใด?'
+
+DOCUMENT 1/5
+Score: 0.03149801587301587
+Doc ID: doc_120
+Context: The chunk provides detailed tax rates and classifications for various forms of lead and zinc products, including pure lead, lead sheets, zinc ingots, and other zinc products, as part of a larger document on metal classifications and tariffs.
+
+Content:
+#### หมายเหตุประเภทย่อย
+
+1. ในตอนนี้ คำว่า "ตะกั่วบริสุทธิ์" หมายถึง
+   โลหะที่มีตะกั่วอย่างน้อยร้อยละ 99.9 โดยน้ำหนัก หากว่ามีธาตุอื่น ๆ หนักไม่เกินค่าที่กำหนดไว้ในตารางต่อไปนี้
+
+ตาราง - ธาตุอื่น ๆ
+
+| ธาตุ | ปริมาณจำกัดร้อยละโดยน้ำหนัก |
+| - | - |
+| Ag เงิน | 0.02 |
+| As อาร์เซนิก | 0.005 |
+| Bi บิสมัท | 0.05 |
+| Ca แคลเซียม | 0.002 |
+| Cd แคดเมียม | 0.002 |
+| Cu ทองแดง | 0.08 |
+| Fe เหล็ก | 0.002 |
+| S กำมะถัน | 0.002 |
+| Sb พลวง | 0.005 |
+| Sn ดีบุก | 0.005 |
+| Zn สังกะสี | 0.002 |
+| ธาตุอื่น...(truncated)
+
+DOCUMENT 2/5
+Score: 0.030798389007344232
+Doc ID: doc_46
+Context: The chunk provides detailed tax classifications and rates for various chemical products and minerals, including notes on specific definitions and exclusions for certain categories such as radioactive isotopes, rare earth metals, and organic compounds. It is part of a larger document that outlines customs tariff schedules and guidelines for different product types under categories 23 through 29.
+
+DOCUMENT 3/5
+Score: 0.03007688828584351
+Doc ID: doc_135
+Context: Qwen API error after 5 attempts: Error code: 400 - {'error': {'code': 'invalid_parameter_error', 'param': None, 'message': '<400> InternalError.Algo.InvalidParameter: Range of input length should be [1, 129024]', 'type': 'invalid_request_error'}, 'id': 'chatcmpl-c3380114-d578-9e58-a9d0-7809460117d7', 'request_id': 'c3380114-d578-9e58-a9d0-7809460117d7'}
+
+DOCUMENT 4/5
+Score: 0.016666666666666666
+Doc ID: doc_75
+Context: The chunk provides detailed specifications and classifications for various types of paper and cardboard products, including their intended uses, manufacturing processes, and physical properties, as part of a larger customs tariff or regulatory document. It covers categories from 48.01 to 48.23, detailing items like printing paper, writing and graphic papers, craft paper, coated papers, and specialized papers used in medical and industrial applications.
+
+DOCUMENT 5/5
+Score: 0.016666666666666666
+Doc ID: doc_113
+
+คำตอบ: จากข้อมูลที่ให้มาในบริบท, ไม่มีรายละเอียดเฉพาะเกี่ยวกับวาล์วเช็ค (non-return valve) ที่ทำด้วยทองแดงเจือ (brass) และมีขนาดเส้นผ่านศูนย์กลางภายใน 2.5 เซนติเมตรหรือน้อยกว่า อย่างชัดเจน แต่เราสามารถสรุปได้ว่า:
+
+วาล์วเช็คที่ทำด้วยทองแดงเจือและมีขนาดดังกล่าว น่าจะอยู่ในประเภทที่เกี่ยวกับของใช้ทั่วไปที่ทำด้วยทองแดงหรือทองแดงเจือ ซึ่งตามบริบทที่ให้มา อาจจะอยู่ในประเภท 74.15 ซึ่งครอบคลุมของทำด้วยทองแดงหรือทองแดงเจือที่ไม่ได้ระบุไว้ในประเภทอื่น
+
+อย่างไรก็ตาม, สำหรับข้อมูลที่แน่นอน ควรตรวจสอบกับแหล่งข้อมูลทางการที่เกี่ยวข้องหรือติดต่อหน่วยงานที่เกี่ยวข้องเพื่อขอข้อมูลเพิ่มเติม เนื่องจากประเภทและประเภทย่อยอาจมีการเปลี่ยนแปลงหรือมีรายละเอียดเฉพาะที่ไม่ได้ระบุในบริบทที่ให้มา
+
+บันทึกผลลัพธ์ไปยัง authentic_rag_search_results.json สำเร็จ
