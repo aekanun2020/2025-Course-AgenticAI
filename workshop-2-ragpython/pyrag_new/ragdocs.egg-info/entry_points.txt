@@ -1,0 +1,2 @@
+[console_scripts]
+ragdocs = ragdocs.server:main

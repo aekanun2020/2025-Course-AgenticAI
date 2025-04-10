@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: ragdocs
+Version: 0.1.0
+Summary: A FastMCP server for RAG with documentation
+Requires-Python: >=3.10
+Requires-Dist: mcp>=1.2.0
+Requires-Dist: qdrant-client>=1.7.0
+Requires-Dist: openai>=1.12.0
+Requires-Dist: pymupdf>=1.23.0
+Requires-Dist: beautifulsoup4>=4.12.0
+Requires-Dist: aiohttp>=3.8.0
+Requires-Dist: python-dotenv>=1.0.0
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

@@ -1,0 +1,87 @@
+Metadata-Version: 2.2
+Name: pyragdoc
+Version: 0.1.0
+Summary: A Model Context Protocol server for RAG with documentation
+Home-page: https://github.com/yourusername/pyragdoc
+Author: Aekanun
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: qdrant-client>=1.7.0
+Requires-Dist: openai>=1.12.0
+Requires-Dist: ollama>=0.1.0
+Requires-Dist: PyPDF2>=3.0.0
+Requires-Dist: pymupdf>=1.23.0
+Requires-Dist: beautifulsoup4>=4.12.0
+Requires-Dist: playwright>=1.40.0
+Requires-Dist: requests>=2.31.0
+Requires-Dist: fastapi>=0.109.0
+Requires-Dist: uvicorn>=0.27.0
+Requires-Dist: pydantic>=2.5.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: tqdm>=4.66.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# PyRAGDoc
+
+A Python implementation of a Retrieval Augmented Generation system for documentation.
+
+## Description
+
+PyRAGDoc is a Model Context Protocol server for fetching and storing documentation in a vector database,
+enabling semantic search and retrieval to augment LLM capabilities with relevant documentation context.
+
+## Features
+
+- Add documentation from URLs
+- Process local files and directories
+- Support for PDF, HTML, and text-based documents
+- Vector search using Qdrant
+- Embedding generation with OpenAI or Ollama
+- MCP integration for LLM tools
+
+## Installation
+
+```bash
+pip install -e .
+```
+
+## Usage
+
+### Environment Variables
+
+- `OLLAMA_URL`: URL for Ollama API (default: http://localhost:11434)
+- `QDRANT_URL`: URL for Qdrant server (default: http://127.0.0.1:6333)
+- `EMBEDDING_PROVIDER`: Provider for embeddings (ollama or openai)
+- `EMBEDDING_MODEL`: Model to use for embeddings
+- `OPENAI_API_KEY`: API key for OpenAI (if using OpenAI provider)
+
+### Running the Server
+
+#### MCP Server Mode
+
+```bash
+pyragdoc --mode mcp
+```
+
+#### HTTP API Server Mode
+
+```bash
+pyragdoc --mode http
+```
+
+## License
+
+MIT

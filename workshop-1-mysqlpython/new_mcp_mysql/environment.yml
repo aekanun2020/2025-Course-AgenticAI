@@ -1,0 +1,11 @@
+name: mcp-mysql
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - mysql-connector-python
+  - python-dotenv
+  - pip:
+    - mcp>=1.2.0
