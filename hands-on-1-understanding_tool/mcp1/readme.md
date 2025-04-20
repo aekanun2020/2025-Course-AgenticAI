@@ -110,6 +110,7 @@ INFO     Successfully installed prime-checker in Claude app
 ```
 
 3. แก้ไข configuration ให้เหมาะสมกับ environment ของท่าน
+   (ตรวจสอบ environment ด้วยคำสั่ง which python แล้วนำผลลัพธ์ไปใส่แทนที่ /opt/anaconda3/envs/mcp_env/bin/python)
 ```
 "prime-checker": {
       "command": "/opt/anaconda3/envs/mcp_env/bin/python",
