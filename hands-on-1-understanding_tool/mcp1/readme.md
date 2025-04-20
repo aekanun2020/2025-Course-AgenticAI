@@ -2,6 +2,8 @@
 
 ## วัตถุประสงค์
 เรียนรู้วิธีการใช้งาน Tool ของ Model Context Protocol (MCP) เบื้องต้น โดยการสร้างและทดสอบเซิร์ฟเวอร์ MCP อย่างง่ายที่สามารถตรวจสอบจำนวนเฉพาะได้
+(1) สิ้นสุดขั้นตอนที่ 3 หลังจากรันแบบ manual แล้ว ผู้เรียนควรจะได้เรียนรู้การสื่อสารระหว่าง client กับ server เพื่อประโยชน์ในการทำความเข้าใจ log ของ mcp server
+(2) สิ้นสุดขั้นตอนที่ 5 ผู้เรียนควรกลับมาทบทวนว่า LLM รู้ได้อย่างไรว่ามี tool ชื่อ "is_prime" อยู่
 
 ## ข้อกำหนดเบื้องต้น
 - Python 3.10 หรือ 3.11
@@ -92,7 +94,7 @@ python _prime_checker.py
 
 6. เมื่อเสร็จสิ้นการทดสอบ กด Ctrl+C เพื่อหยุดการทำงานของเซิร์ฟเวอร์
 
-## ขั้นตอนที่ 5: ติดตั้งเซิร์ฟเวอร์ MCP กับ Claude Desktop
+## ขั้นตอนที่ 4: ติดตั้งเซิร์ฟเวอร์ MCP กับ Claude Desktop
 
 ก่อนการติดตั้ง โปรดสำรวจไฟล์ prime_checker.py ซึ่งเป็นไฟล์ใหม่ที่สร้างขึ้น โดยมี code ทั้งหมดตรงกับ _prime_checker.py ยกเว้น server object
 หากคุณมี Claude Desktop ติดตั้งอยู่ในเครื่อง คุณสามารถเชื่อมต่อเซิร์ฟเวอร์ MCP (prime_checker.py) ของคุณกับ Claude ได้ดังนี้:
@@ -122,4 +124,4 @@ INFO     Successfully installed prime-checker in Claude app
 เค้าโครงของ configuration ที่เพิ่มเข้ามาจะเป็นแบบนี้ แต่จำเป็นต้องเปลี่ยนในส่วน "command" และ "args" ให้เหมาะสม
 5. เปิดหรือรีสตาร์ท Claude Desktop เพื่อใช้งาน Prime Number Checker
 
-## ขั้นตอนที่ 6: ทดสอบการใช้ tool "is_prime" บน Claude Desktop
+## ขั้นตอนที่ 5: ทดสอบการใช้ tool "is_prime" บน Claude Desktop
